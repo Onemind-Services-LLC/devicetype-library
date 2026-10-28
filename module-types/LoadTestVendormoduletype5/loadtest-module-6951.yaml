@@ -1,0 +1,8 @@
+---
+manufacturer: LoadTestVendormoduletype5
+model: LoadTest-Module-6951
+part_number: loadtest-module-6951
+power-ports:
+  - name: Power Supply {module}
+    type: iec-60320-c14
+    maximum_draw: 100

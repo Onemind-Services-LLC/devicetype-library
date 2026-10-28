@@ -1,0 +1,8 @@
+---
+manufacturer: LoadTestVendormoduletype5
+model: LoadTest-Module-4223
+part_number: loadtest-module-4223
+power-ports:
+  - name: Power Supply {module}
+    type: iec-60320-c14
+    maximum_draw: 100
